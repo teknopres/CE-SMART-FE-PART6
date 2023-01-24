@@ -1,0 +1,89 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+
+/* header section */
+
+.header {
+  position: relative;
+  height: 100%;
+}
+
+.img-top {
+  width: 100%;
+  position: relative;
+}
+
+.header-content {
+  position: absolute;
+  top: 0;
+  left: 10%;
+  width: 80%;
+}
+
+.navbar-content {
+  color: white;
+  font-weight: bold;
+  font-size: 20pt;
+  text-decoration: none;
+}
+
+.navbar ul {
+  display: table;
+  margin: 5px;
+}
+
+.navbar ul li {
+  display: table-cell;
+  padding: 15px;
+  list-style: none;
+  vertical-align: middle;
+}
+
+/* styling profil box & image */
+.profil {
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: -7px 5px rgba(0, 0, 0, 0.247);
+}
+
+.profil-text {
+  padding: 40px 0px 40px 40px;
+}
+
+.profil-image {
+  height: 520px;
+}
+
+/* menambahkan styling teks identitas & kontak pada profil */
+.nama {
+  font-size: 45pt;
+  font-weight: bold;
+}
+
+.keterangan {
+  font-size: 23pt;
+}
+
+.profil-text ul {
+  padding: 0;
+  list-style: none;
+  margin-top: 45px;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.profil-text ul li {
+  margin-top: 10px;
+}
+/*  */
+
+
+/* main section */
+
+/* footer section */
