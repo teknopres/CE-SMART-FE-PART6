@@ -85,5 +85,44 @@ body {
 
 
 /* main section */
+.main {
+    margin-top: 300px;
+}
+
+.sub-title {
+    text-align: center;
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+.portfolio {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+}
+
+.portfolio-image {
+    width: 100%;
+}
+
+.portfolio-title {
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.portfolio-content {
+    font-size: 16pt;
+    text-align: justify;
+}
+
+.portfolio-link {
+    font-size: 16pt;
+    text-align: end;
+}
+
+.portfolio-link a {
+    text-decoration: none;
+    font-style: italic;
+}
 
 /* footer section */
